@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mini SQL Engine</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>⚡ Mini SQL Engine</h1>
+
+    <textarea id="query" placeholder="Enter SQL command..."></textarea>
+
+    <div class="buttons">
+        <button onclick="runQuery()">Run Query</button>
+        <button onclick="clearOutput()">Clear</button>
+    </div>
+
+    <pre id="output">Output will appear here...</pre>
+</div>
+<div id="historyBox">
+    <h3>Query History</h3>
+    <ul id="historyList"></ul>
+</div>
+
+
+<script src="app.js"></script>
+</body>
+</html>

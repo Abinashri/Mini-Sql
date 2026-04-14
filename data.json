@@ -1,0 +1,105 @@
+{
+  "STUDENT": {
+    "columns": [
+      "id",
+      "name"
+    ],
+    "rows": [
+      [
+        "1",
+        "abi"
+      ],
+      [
+        "3",
+        "upuu"
+      ],
+      [
+        "4",
+        "Abi"
+      ],
+      [
+        "4",
+        "Abi"
+      ],
+      [
+        "4",
+        "Abi"
+      ],
+      [
+        "4",
+        "Abi"
+      ],
+      [
+        "ramapa",
+        "34000"
+      ],
+      [
+        "ramapa",
+        "34000"
+      ],
+      [
+        "ramapa",
+        "34000"
+      ],
+      [
+        "ramapa",
+        "34000"
+      ],
+      [
+        "umami",
+        "39000"
+      ],
+      [
+        "umami",
+        "39000"
+      ],
+      [
+        "umami",
+        "39000"
+      ],
+      [
+        "umami",
+        "39000"
+      ],
+      [
+        "umami",
+        "39000"
+      ],
+      [
+        "umami",
+        "39000"
+      ]
+    ]
+  },
+  "EMPLOYEEid,name)": {
+    "columns": [
+      "id",
+      "name"
+    ],
+    "rows": []
+  },
+  "EMPLOYEE": {
+    "columns": [
+      "id",
+      "name"
+    ],
+    "rows": [
+      [
+        "001",
+        "Yazhu"
+      ],
+      [
+        "002",
+        "Ram"
+      ]
+    ]
+  },
+  "employee": {
+    "columns": [
+      "id",
+      "name",
+      "salary"
+    ],
+    "rows": []
+  }
+}
